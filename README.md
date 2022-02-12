@@ -1,0 +1,2 @@
+# sigmaransomware
+Sigma ranosmware
